@@ -3516,25 +3516,3 @@ figcaption {
 #w-node-_8613a602-cb20-fec1-955d-684ceaf809de-89534b32 {
   grid-area: 4 / 2 / 5 / 4;
 }
-
-#w-node-d783a17e-0b35-a13a-0448-a852d0df4a32-d0df4a24 {
-  grid-area: 1 / 1 / 2 / 2;
-}
-
-#w-node-d783a17e-0b35-a13a-0448-a852d0df4a36-d0df4a24 {
-  grid-area: 1 / 2 / 2 / 3;
-}
-
-#w-node-d783a17e-0b35-a13a-0448-a852d0df4a3a-d0df4a24 {
-  grid-area: 2 / 1 / 3 / 3;
-}
-
-@media screen and (max-width: 767px) {
-  #w-node-d783a17e-0b35-a13a-0448-a852d0df4a36-d0df4a24 {
-    grid-area: 2 / 1 / 3 / 2;
-  }
-
-  #w-node-d783a17e-0b35-a13a-0448-a852d0df4a3a-d0df4a24 {
-    grid-area: 3 / 1 / 4 / 2;
-  }
-}
