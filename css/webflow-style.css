@@ -2372,7 +2372,7 @@ figcaption {
 }
 
 .section {
-  margin: 100px 30px 60px;
+  margin: 0px 60px;
 }
 
 .section.cc-contact {
@@ -2593,40 +2593,50 @@ figcaption {
 }
 
 .work-image.cc-work-1 {
-  background-image: url("../images/34.webp");
+  background-image: url("../images/Ecash-Landing-Page-2.jpg");
   background-size: cover;
 }
 
+
 .work-image.cc-work-2 {
-  background-image: url("../images/1.jpg");
+  background-image: url("../images/qenara-Music-App-2.jpg");
   background-size: cover;
 }
 
 .work-image.cc-work-4 {
-  background-image: url("../images/4.jpg");
+  background-image: url("../images/UniCo-Dashboard-2.jpg");
   background-size: cover;
 }
 
 .work-image.cc-work-3 {
-  background-image: url("../images/instagram-20story-20-201.jpg");
+  background-image: url("../images/MAX-Dashboard-2.jpg");
   background-size: cover;
 }
 
 .work-image.cc-work-5 {
-  background-image: url("../images/2.jpg");
+  background-image: url("../images/Lendo-Landing-page-2.jpg");
 }
 
 .work-image.cc-work-6 {
-  background-image: url("../images/2-1.jpg");
+  background-image: url("../images/PUMP-Dashboard-2.jpg");
 }
 
 .work-image.cc-work-7 {
-  background-image: url("../images/4-1.jpg");
+  background-image: url("../images/Loadcell-Dashboard-2.jpg");
 }
 
 .work-image.cc-work-8 {
-  background-image: url("../images/frame-206.jpg");
+  background-image: url("../images/Chaarset-Landing-page-2.jpg");
 }
+
+.work-image.cc-work-9 {
+  background-image: url("../images/Ahan-Araad-Landing-page-2.jpg");
+}
+
+.work-image.cc-work-10 {
+  background-image: url("../images/Child-Psychology-App-3.jpg");
+}
+
 
 .project-name-link {
   margin-bottom: 5px;
@@ -2891,7 +2901,7 @@ figcaption {
 .detail-image {
   border-radius: 22px;
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
 }
 
 .detail-image.im1 {
@@ -3393,7 +3403,7 @@ figcaption {
   }
 
   .detail-image {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
   }
 
   .email-section {
@@ -3516,3 +3526,14 @@ figcaption {
 #w-node-_8613a602-cb20-fec1-955d-684ceaf809de-89534b32 {
   grid-area: 4 / 2 / 5 / 4;
 }
+
+/* Existing rules ... */
+
+  /* Added Rules for New Cards */
+  #w-node-new-card-9-placeholder-89534b32 {
+    grid-area: 5 / 1 / 6 / 3;
+  }
+  
+  #w-node-new-card-10-placeholder-89534b32 {
+    grid-area: 5 / 3 / 6 / 4;
+  }
